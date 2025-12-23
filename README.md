@@ -273,7 +273,7 @@ curl http://localhost:3000/books/1
 
 ## 🔐 Segurança
 
-⚠️ **Nota**: Este projeto é apenas para fins educacionais. Em produção, considere implementar:
+⚠️ **Nota**: Este projeto é apenas para fins educacionais.
 
 ## 📝 Licença
 
