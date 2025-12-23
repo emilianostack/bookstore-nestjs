@@ -275,24 +275,6 @@ curl http://localhost:3000/books/1
 
 ⚠️ **Nota**: Este projeto é apenas para fins educacionais. Em produção, considere implementar:
 
-- Autenticação e autorização (JWT, OAuth2)
-- Rate limiting
-- Validação robusta de entrada
-- HTTPS
-- Variáveis de ambiente seguras
-- Persistência de dados em banco de dados
-- Logs estruturados
-- Monitoramento e observabilidade
-
-## 🗄️ Persistência de Dados
-
-Atualmente, os dados são armazenados **em memória** e serão perdidos quando os serviços forem reiniciados. Para produção, considere integrar com:
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis (cache)
-
 ## 📝 Licença
 
 Este projeto está sob a licença UNLICENSED.
@@ -326,4 +308,5 @@ nest generate module nome-do-modulo
 ---
 
 **Desenvolvido com ❤️ usando NestJS**
+
 # bookstore-nestjs
